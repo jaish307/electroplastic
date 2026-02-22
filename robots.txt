@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jaish307.github.io/electroplastic/sitemap.xml
